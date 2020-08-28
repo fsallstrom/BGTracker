@@ -1,0 +1,5 @@
+<properties>
+    <property id="Url" type="string">https://fsallstrom-ns.herokuapp.com</property>
+     <property id="Server" type="string">Nightscout</property>
+     <property id="lowAlert" type="number">5</property>
+</properties>
